@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.iceant.rocker:rocker-compiler:-v1.2.1-ge92206e-21">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/iceant/rocker/rocker-compiler/-v1.2.1-ge92206e-21/rocker-compiler--v1.2.1-ge92206e-21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/iceant/rocker/rocker-compiler/-v1.2.1-ge92206e-21/rocker-compiler--v1.2.1-ge92206e-21-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/iceant/rocker/rocker-compiler/-v1.2.1-ge92206e-21/rocker-compiler--v1.2.1-ge92206e-21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
